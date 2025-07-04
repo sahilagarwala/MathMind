@@ -41,5 +41,3 @@ Clean and interactive chat interface for seamless user experience.
 
 ---
 
-## 📦 Project Structure
-
