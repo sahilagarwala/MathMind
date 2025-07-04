@@ -1,0 +1,47 @@
+# UI and app
+streamlit
+python-dotenv
+
+# LangChain Core + Community + Extensions
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+
+# Embeddings and Vector DB
+sentence-transformers
+faiss-cpu
+chromadb
+
+# Search and data sources
+duckduckgo_search==5.3.1b1
+wikipedia
+arxiv
+pytube
+youtube_transcript_api
+
+# Parsing and preprocessing
+bs4
+pypdf
+pymupdf
+unstructured
+
+# Math and data manipulation
+pandas
+numexpr
+
+# SQL Support
+mysql-connector-python
+SQLAlchemy
+
+# Validation
+validators==0.28.1
+
+# Hugging Face Hub
+huggingface_hub
+
+# Optional (for notebooks, debugging)
+ipykernel
